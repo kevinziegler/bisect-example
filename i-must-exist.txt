@@ -1,0 +1,5 @@
+This file is the sentinel file that our test script checks.
+
+If it is present in the repository, the test will pass.
+
+If it is missing, the test will fail.
